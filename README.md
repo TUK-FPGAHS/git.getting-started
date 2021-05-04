@@ -1,5 +1,5 @@
 # git.getting-started
-training repository for basic GitHub functionality 
+Training repository for basic GitHub functionality 
 
 ## Introduction
 Throughout the course, we will use Git - an industry standard version control software - for managing the lab. You need to understand the basics usage of Git for successfully carrying out the lab.
@@ -27,19 +27,19 @@ This site features a list of ressources you can use to find the knowledge necess
 https://help.github.com/articles/good-resources-for-learning-git-and-github/
 
 The following sources should be especially useful:
-- using Git in practice
+- Using Git in practice
   - https://guides.github.com/
     - Understanding Github-Flow
     - Hello World
     - Forking Projects
     - Mastering Issues
   - https://rogerdudler.github.io/git-guide/
-- advanced concepts for larger projects
-  - http://scottchacon.com/2011/08/31/github-flow.html
-  - http://nvie.com/posts/a-successful-git-branching-model/
+- Advanced concepts for larger projects
+  - https://scottchacon.com/2011/08/31/github-flow.html
+  - https://nvie.com/posts/a-successful-git-branching-model/
 
 Note:
-There are Graphical User Interfaces (GUIs) supporting Git for all platforms maing the first steps a bit easier.
+There are Graphical User Interfaces (GUIs) supporting Git for all platforms making the first steps a bit easier.
 Here is a list of GUI clients for different operating systems:
 https://git-scm.com/downloads/guis
 
